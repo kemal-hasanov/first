@@ -5,10 +5,8 @@ import "fmt"
 func asdasd(ime string, pozdrav string) {
 	print(pozdrav)
 	print(" ")
-
 	print(ime)
 	print(" ")
-
 	print(familiq(ime))
 	println("!")
 }
